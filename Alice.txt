@@ -1,4 +1,4 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. Git edit
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Git edit 2
 Second line
 Third line
 One more line
